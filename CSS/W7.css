@@ -1,0 +1,36 @@
+body {
+  margin: 0 auto; }
+
+li {
+  list-style-type: none; }
+
+.container {
+  background-color: #001D2E;
+  width: 800px;
+  height: 600px;
+  margin: 0 auto; }
+
+.desc {
+  color: #FFFFFF;
+  margin-left: 380px;
+  margin-top: -100px;
+  font-size: 20px;
+  font-family: Roboto; }
+
+#rrr {
+  margin-left: 360px;
+  margin-top: 200px; }
+
+t {
+  color: #FFFFFF;
+  margin-left: 350px;
+  font-size: 18px; }
+
+.circle {
+  width: 380px;
+  height: 380px;
+  margin-left: 210px;
+  margin-top: -200px;
+  border-style: solid;
+  border-radius: 99em;
+  border-color: #FFFFFF; }
