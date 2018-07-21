@@ -97,8 +97,8 @@ function draw() {
 
   ctx.restore();
 
-  ctx.fillStyle = "white";
-  ctx.fillRect(ship.x, ship.y, 50, 50);
+  // ctx.fillStyle = "white";
+  // ctx.fillRect(ship.x, ship.y, 50, 50);
 
   requestAnimationFrame(draw);
 }
